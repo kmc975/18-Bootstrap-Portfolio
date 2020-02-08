@@ -1,0 +1,262 @@
+.navbar-nav{
+    margin-left: 800px;
+    justify-content: space-between;
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+}
+
+.navbar-brand {
+    margin-left: 80px;
+}
+
+.bg-light {
+    background-color: black !important;
+}
+
+.navbar-light .navbar-nav .active>.nav-link {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+
+
+
+  .jumboPic img {
+      height: 411px;
+      width: 472px;
+      margin-top: -570px;
+      margin-left: 700px;
+  }
+
+  .container {
+      background-color: black;
+  }
+
+  .jumbotron {
+    text-align: left;
+    margin-left: -100px;
+    background-color: black !important;
+}
+
+.lead {
+    color: white;
+    font-family: 'Coda', cursive;
+    font-size: 40px;
+}
+
+.leadd {
+    color: rgba(145, 145, 145, 0.7);
+    font-size: 20px;
+}
+
+.btn-primary {
+    background-color: white;
+    color: black;
+    border-color: white;
+    font-family: 'Coda', cursive;
+    margin-top: -10px;
+}
+
+.social-icons {
+    text-align: center;
+}
+
+.side-block img {
+    width:70px;
+    height:70px;
+    margin-left
+    display: inline-block;
+    padding: 5px;
+  }
+
+  .social-icons {
+      display: inline-block;
+      margin: 10px;
+  }
+
+  
+  .sectionHeading {
+      text-align: center;
+      color: white;
+      font-family: 'Coda', cursive;
+      font-size: 20px;
+  }
+
+  .card {
+      background-color: orange;
+      flex-direction: row;
+      width: 2000px;
+      height: 500px;
+  }
+
+  .cardPic {
+      margin-right: 100px;
+      margin-top: 35px;
+  }
+
+  
+
+  .card-body {
+      color: white;
+      padding: 100px;
+      font-family: 'Coda', cursive;
+  }
+
+  .card-body h2 {
+      font-size: 30px;
+  }
+
+  .card-body h6 {
+      word-wrap: break-word;
+      width: 470px;
+      font-family: 'Roboto', sans-serif;
+  }
+
+  .card-body h4 {
+      color: rgba(223, 222, 222, 0.7);
+      font-size: 20px;
+  }
+
+  .cardd {
+      background-color: rgb(97, 189, 97);
+      flex-direction: row;
+      width: 2000px;
+      height: 500px;
+  }
+
+  .carddPic img {
+      margin-left: 910px !important;
+      margin-top: -390px;
+  }
+
+  .carddd {
+      background-color: rgb(102, 102, 252);
+      flex-direction: row;
+      width: 2000px;
+      height: 530px;
+  }
+
+  .card .btn-primary {
+      background-color: black;
+      color: white;
+      border-color: black;
+  }
+
+  .cardd .btn-primary {
+    background-color: black;
+    color: white;
+    border-color: black;
+}
+
+.carddd .btn-primary {
+    background-color: black;
+    color: white;
+    border-color: black;
+}
+
+.cardddPic img {
+    margin-left: 770px;
+    margin-top: -400px;
+}
+  .quote img {
+      margin-top: 60px;
+      margin-left: 160px;
+  }
+
+  .jumboPicc img {
+      height: 517px;
+      width: 413px;
+      margin-left: 165px;
+  }
+
+  .leadBottom {
+    font-family: 'Coda', cursive;
+    color: white;
+  }
+
+  .bottomBody {
+      color: white;
+      font-size: 20px;
+      font-family: 'Roboto', sans-serif;
+      word-wrap: break-word;
+      width: 520px;
+      line-height: 25px;
+  }
+
+  .bottomProficient {
+      color: white;
+  }
+
+  .bottomIcons img {
+      padding: 10px;
+      margin-right: 9px;
+      width: 70px;
+      height: 70px;
+  }
+
+  .btn-light {
+    font-family: 'Coda', cursive;
+    margin-top: 25px;
+    font-weight: bold;
+  }
+
+  .theFoot {
+    width: 100%;
+    
+    background-color: white;
+    margin-left: 9px;
+    display: flex;
+    margin-top: 220px;
+  }
+
+  .footerEmail {
+    font-family: 'Coda', cursive;
+    margin-top: 30px;
+    margin-left: 15px;
+    font-size: 15px;
+  }
+
+  
+
+  .footerLogo img {
+    margin-left: 350px;
+  } 
+
+
+  .footerIcons img {
+      width: 50px;
+      height: 50px;
+      margin-left: 15px;
+      margin-top: 20px;
+      
+  }
+
+  .footerWords {
+      display: flex;
+      background-color: white;
+      width: 1439px;
+      margin-left: 9px;
+      font-family: 'Coda', cursive;
+      
+      
+  }
+
+  .footerWords h1 {
+      font-size: 22px;
+      padding: 50px;
+      margin-left: 150px;
+      
+      
+  }
+
+  .footerIcons {
+      width: 100%;
+      display: flex;
+      justify-content: flex-end;
+      margin-right: 10px;
+  }
